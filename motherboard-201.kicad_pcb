@@ -576,7 +576,7 @@
       (net 196 "Net-(J2-Pad1)"))
     (pad 2 thru_hole circle (at -1.5 -8.5 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
       (net 197 "Net-(J2-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/PS2_conn.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/PS2_conn.wrl
       (offset (xyz 0 7.111999893188477 0))
       (scale (xyz 1.025 1.1 1.1))
       (rotate (xyz 0 0 0))
@@ -647,7 +647,7 @@
       (net 193 "Net-(C25-Pad2)"))
     (pad 1 thru_hole circle (at -2.44094 0 90) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask)
       (net 192 "Net-(C24-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Crystal.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Crystal.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1173,7 +1173,7 @@
       (net 193 "Net-(C25-Pad2)"))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1209,7 +1209,7 @@
       (net 192 "Net-(C24-Pad2)"))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1245,7 +1245,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1281,7 +1281,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1317,7 +1317,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1353,7 +1353,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1389,7 +1389,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1425,7 +1425,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1461,7 +1461,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1497,7 +1497,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1831,7 +1831,7 @@
       (net 128 "Net-(C35-Pad1)"))
     (pad 1 smd rect (at -2.7 -1.905 90) (size 1.55 0.6) (layers F.Cu F.Paste F.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOIC-8_150.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOIC-8_150.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1897,7 +1897,7 @@
       (net 145 "Net-(U17-Pad2)"))
     (pad 1 smd rect (at -2.7 -3.81) (size 1.5 0.6) (layers F.Cu F.Paste F.Mask)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOIC-14.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOIC-14.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1959,7 +1959,7 @@
       (net 51 /PSG/JOYB7))
     (pad 1 smd rect (at -2.7 -3.81 90) (size 1.5 0.6) (layers F.Cu F.Paste F.Mask)
       (net 88 /PSG/IOB0))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOIC-14.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOIC-14.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2107,7 +2107,7 @@
       (net 56 /CPU/D0))
     (pad 1 smd rect (at -4.7 -5.715) (size 1.95 0.6) (layers F.Cu F.Paste F.Mask)
       (net 104 /DATADIR))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOIC-20.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOIC-20.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2173,7 +2173,7 @@
       (net 9 /~M1))
     (pad 1 smd rect (at -2.7 -3.81) (size 1.5 0.6) (layers F.Cu F.Paste F.Mask)
       (net 176 /~WAIT))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOIC-14.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOIC-14.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2259,7 +2259,7 @@
       (net 12 /~WR))
     (pad 1 smd rect (at -4.7 -6.985) (size 2 0.6) (layers F.Cu F.Paste F.Mask)
       (net 13 /~RD))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOIC-24.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOIC-24.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2295,7 +2295,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2331,7 +2331,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 189 "Net-(C15-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2367,7 +2367,7 @@
       (net 128 "Net-(C35-Pad1)"))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2403,7 +2403,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 128 "Net-(C35-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2439,7 +2439,7 @@
       (net 128 "Net-(C35-Pad1)"))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 157 "Net-(R17-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2475,7 +2475,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 100 /CASIN))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2511,7 +2511,7 @@
       (net 119 ~))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 157 "Net-(R17-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2547,7 +2547,7 @@
       (net 157 "Net-(R17-Pad2)"))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 127 "Net-(C34-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2583,7 +2583,7 @@
       (net 138 "Net-(J8-Pad4)"))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2619,7 +2619,7 @@
       (net 126 "Net-(C33-Pad1)"))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 138 "Net-(J8-Pad4)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2655,7 +2655,7 @@
       (net 164 "Net-(C32-Pad2)"))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 126 "Net-(C33-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2691,7 +2691,7 @@
       (net 156 /~CASMOTOR))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 150 "Net-(Q2-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2727,7 +2727,7 @@
       (net 53 /AUDIO))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 125 "Net-(C31-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2763,7 +2763,7 @@
       (net 53 /AUDIO))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 124 "Net-(C30-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2799,7 +2799,7 @@
       (net 53 /AUDIO))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 123 "Net-(C29-Pad2)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2835,7 +2835,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 162 /~KANALOCK))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2871,7 +2871,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 163 "Net-(C31-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2907,7 +2907,7 @@
       (net 155 "Net-(R7-Pad2)"))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2943,7 +2943,7 @@
       (net 102 /RESET))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2979,7 +2979,7 @@
       (net 189 "Net-(C15-Pad1)"))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 190 "Net-(R3-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3015,7 +3015,7 @@
       (net 120 "Net-(D2-Pad1)"))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3051,7 +3051,7 @@
       (net 2 /~RESET))
     (pad 1 smd roundrect (at -1.4 0 90) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/R_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/R_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3087,7 +3087,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3123,7 +3123,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3159,7 +3159,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3195,7 +3195,7 @@
       (net 165 "Net-(C34-Pad2)"))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 127 "Net-(C34-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3231,7 +3231,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 126 "Net-(C33-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3267,7 +3267,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3303,7 +3303,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3339,7 +3339,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3375,7 +3375,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 270) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3411,7 +3411,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3447,7 +3447,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3483,7 +3483,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3519,7 +3519,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3555,7 +3555,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3591,7 +3591,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 122 "Net-(C7-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3627,7 +3627,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3663,7 +3663,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3699,7 +3699,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3735,7 +3735,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -1.4 0 180) (size 1.25 1.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.2)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/C_1206.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/C_1206.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3789,7 +3789,7 @@
       (net 119 ~))
     (pad 1 smd rect (at -2.7 -1.905) (size 1.55 0.6) (layers F.Cu F.Paste F.Mask)
       (net 122 "Net-(C7-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOIC-8_150.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOIC-8_150.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3838,7 +3838,7 @@
       (net 1 GND))
     (pad 1 smd rect (at -2.54 2.1) (size 1.8 2) (layers F.Cu F.Paste F.Mask)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SG7050.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SG7050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 3.5 3 1))
       (rotate (xyz 0 0 0))
@@ -3938,7 +3938,7 @@
       (net 1 GND))
     (pad 1 smd roundrect (at -6.55 -9.525) (size 2.05 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25)
       (net 188 "Net-(U1-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/SOP-32_450.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/SOP-32_450.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4052,7 +4052,7 @@
       (net 18 /CPU/ADDR12) (solder_mask_margin 0.09906))
     (pad 1 smd oval (at 0 8.10006) (size 0.70104 2.70002) (layers F.Cu F.Paste F.Mask)
       (net 16 /CPU/ADDR11) (solder_mask_margin 0.09906))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/plcc44.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/plcc44.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4166,7 +4166,7 @@
       (net 64 /PPI/PA3) (solder_mask_margin 0.09906))
     (pad 1 smd oval (at 0 8.10006) (size 0.70104 2.70002) (layers F.Cu F.Paste F.Mask)
       (net 181 "Net-(U28-Pad1)") (solder_mask_margin 0.09906))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/plcc44.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/plcc44.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4257,7 +4257,7 @@
       (net 159 "Net-(JP2-Pad2)") (solder_mask_margin 0.09906))
     (pad 1 smd oval (at 0 6.7691) (size 0.70104 2.70002) (layers F.Cu F.Paste F.Mask)
       (net 161 "Net-(JP4-Pad2)") (solder_mask_margin 0.09906))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/plcc32.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/plcc32.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4597,7 +4597,7 @@
       (net 1 GND))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -4748,7 +4748,7 @@
       (net 1 GND))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -4914,7 +4914,7 @@
       (net 1 GND))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 122 "Net-(C7-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -5065,7 +5065,7 @@
       (net 164 "Net-(C32-Pad2)"))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 99 /CASOUT))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -5216,7 +5216,7 @@
       (net 1 GND))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 128 "Net-(C35-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -5367,7 +5367,7 @@
       (net 123 "Net-(C29-Pad2)"))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 3 /BEEP))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -5518,7 +5518,7 @@
       (net 124 "Net-(C30-Pad2)"))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 101 /EXTSOUND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -5669,7 +5669,7 @@
       (net 125 "Net-(C31-Pad2)"))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 163 "Net-(C31-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Radial_capacitor.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Radial_capacitor.wrl
       (offset (xyz 0 0 1.269999980926514))
       (scale (xyz 1 1 2))
       (rotate (xyz 0 0 0))
@@ -5785,7 +5785,7 @@
       (net 92 /PSG/IOA0))
     (pad 1 thru_hole rect (at 0 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/DIP-40_600.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/DIP-40_600.wrl
       (offset (xyz 7.5 -24 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -5996,7 +5996,7 @@
       (net 101 /EXTSOUND))
     (pad 50 thru_hole circle (at -30.48 2.425 270) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Slot_conn.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Slot_conn.wrl
       (offset (xyz 0 0 2))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 180 90))
@@ -6026,7 +6026,7 @@
       (net 150 "Net-(Q2-Pad2)"))
     (pad 1 thru_hole oval (at 1.27 0) (size 1.1 2.2) (drill 0.8) (layers *.Cu *.Mask F.SilkS)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/TO92.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/TO92.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6085,7 +6085,7 @@
       (net 119 ~))
     (pad 1 thru_hole circle (at -3.81 0) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS)
       (net 151 "Net-(D3-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Axial_diode.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Axial_diode.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6117,7 +6117,7 @@
       (net 1 GND))
     (pad 1 thru_hole circle (at 0 -1.27 180) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS)
       (net 120 "Net-(D2-Pad1)"))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/LED.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/LED.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6158,7 +6158,7 @@
       (net 47 /PSG/JOYB4))
     (pad 1 thru_hole rect (at -10.16 0) (size 1.524 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/RN8.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/RN8.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6191,7 +6191,7 @@
       (net 51 /PSG/JOYB7))
     (pad 1 thru_hole rect (at -5.08 0) (size 1.524 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS)
       (net 119 ~))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/RN4.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/RN4.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6327,7 +6327,7 @@
       (net 101 /EXTSOUND))
     (pad 50 thru_hole circle (at -30.48 2.425 270) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Slot_conn.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Slot_conn.wrl
       (offset (xyz 0 0 2))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 180 90))
@@ -6394,7 +6394,7 @@
     (pad 3 thru_hole oval (at 0 -8.382) (size 1.50114 1.99898) (drill 0.89916 (offset 0 -0.24892)) (layers *.Cu *.Mask)
       (net 46 /PSG/JOYB3))
     (pad "" thru_hole circle (at 12.49426 -7.112) (size 5.00126 5.00126) (drill 3.2004) (layers *.Cu *.Mask))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Joystick_conn.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Joystick_conn.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6461,7 +6461,7 @@
     (pad 3 thru_hole oval (at 0 -8.382) (size 1.50114 1.99898) (drill 0.89916 (offset 0 -0.24892)) (layers *.Cu *.Mask)
       (net 39 /PSG/JOYA3))
     (pad "" thru_hole circle (at 12.49426 -7.112) (size 5.00126 5.00126) (drill 3.2004) (layers *.Cu *.Mask))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/Joystick_conn.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/Joystick_conn.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6487,7 +6487,7 @@
       (net 119 ~))
     (pad 3 thru_hole rect (at -3.5 -4.7 270) (size 2 4) (drill oval 0.8 3) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/jack_55_21.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/jack_55_21.wrl
       (offset (xyz -3.555999946594238 4.825999927520752 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -6612,7 +6612,7 @@
       (net 1 GND))
     (pad 42 thru_hole oval (at 20.32 -1.27 90) (size 1.5 2) (drill 1 (offset 0 -0.25)) (layers *.Cu *.Mask F.SilkS)
       (net 55 /CLK))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/GFX_conn.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/GFX_conn.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6655,7 +6655,7 @@
       (net 1 GND))
     (pad 2 thru_hole circle (at 0 -12 180) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/../libs/artemisa.3dshapes/DIN8.wrl
+    (model ${KIPRJMOD}/libs/artemisa.3dshapes/DIN8.wrl
       (offset (xyz 0 9.199999999999999 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
